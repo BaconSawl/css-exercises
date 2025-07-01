@@ -1,0 +1,22 @@
+.odd {
+    background-color: lightpink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+
+}
+
+.odd.cooler {
+    font-size: 24px;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Should assign a reusable class for "odd cooler" and "four" because it change the same font size, to reduce duplicate code.
